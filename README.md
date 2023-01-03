@@ -1,2 +1,2 @@
-/ vkmci.github.io
-/ 请通过链接访问网站
+# vkmci.github.io
+# 请通过链接访问网站
